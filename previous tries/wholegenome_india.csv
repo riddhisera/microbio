@@ -1,0 +1,987 @@
+no,Searchno,Accession ID,Description
+,,,
+1,6,ACCESSION   SGIY01000001 SGIY0,"LOCUS       SGIY01000001          315984 bp    DNA     linear   BCT 17-FEB-2019
+DEFINITION  Klebsiella pneumoniae strain 35DN
+            NODE_1_length_315984_cov_27.9822_ID_1, whole genome shotgun
+            sequence.
+"
+,,,
+2,7,ACCESSION   SGIZ01000001 SGIZ0,"LOCUS       SGIZ01000001          496607 bp    DNA     linear   BCT 17-FEB-2019
+DEFINITION  Klebsiella pneumoniae strain 242CHI
+            NODE_1_length_496607_cov_30.8187_ID_1, whole genome shotgun
+            sequence.
+"
+,,,
+3,8,ACCESSION   SGIZ01000002 SGIZ0,"LOCUS       SGIZ01000002          458072 bp    DNA     linear   BCT 17-FEB-2019
+DEFINITION  Klebsiella pneumoniae strain 242CHI
+            NODE_2_length_458072_cov_30.9182_ID_3, whole genome shotgun
+            sequence.
+"
+,,,
+4,9,ACCESSION   SEHS01000001 SEHS0,"LOCUS       SEHS01000001          380259 bp    DNA     linear   BCT 06-FEB-2019
+DEFINITION  Klebsiella pneumoniae strain 76CHI
+            NODE_1_length_380259_cov_46.1198_ID_1, whole genome shotgun
+            sequence.
+"
+,,,
+5,10,ACCESSION   SEHS01000002 SEHS0,"LOCUS       SEHS01000002          301935 bp    DNA     linear   BCT 06-FEB-2019
+DEFINITION  Klebsiella pneumoniae strain 76CHI
+            NODE_2_length_301935_cov_29.5554_ID_3, whole genome shotgun
+            sequence.
+"
+,,,
+6,11,ACCESSION   SEHU01000001 SEHU0,"LOCUS       SEHU01000001          336197 bp    DNA     linear   BCT 06-FEB-2019
+DEFINITION  Klebsiella pneumoniae strain 86AS
+            NODE_1_length_336197_cov_27.8823_ID_1, whole genome shotgun
+            sequence.
+"
+,,,
+7,12,ACCESSION   SEHQ01000001 SEHQ0,"LOCUS       SEHQ01000001          362442 bp    DNA     linear   BCT 06-FEB-2019
+DEFINITION  Klebsiella pneumoniae strain 55DN
+            NODE_1_length_362442_cov_31.1283_ID_1, whole genome shotgun
+            sequence.
+"
+,,,
+8,13,ACCESSION   REFT01000001 REFT0,"LOCUS       REFT01000001          697498 bp    DNA     linear   BCT 25-OCT-2018
+DEFINITION  Klebsiella pneumoniae strain KP26 (2018)
+            NODE_1_length_697498_cov_8.90071, whole genome shotgun sequence.
+"
+,,,
+9,14,ACCESSION   REFT01000002 REFT0,"LOCUS       REFT01000002          479778 bp    DNA     linear   BCT 25-OCT-2018
+DEFINITION  Klebsiella pneumoniae strain KP26 (2018)
+            NODE_2_length_479778_cov_9.78647, whole genome shotgun sequence.
+"
+,,,
+10,15,ACCESSION   REFT01000003 REFT0,"LOCUS       REFT01000003          337424 bp    DNA     linear   BCT 25-OCT-2018
+DEFINITION  Klebsiella pneumoniae strain KP26 (2018)
+            NODE_3_length_337424_cov_7.90191, whole genome shotgun sequence.
+"
+,,,
+11,16,ACCESSION   REFT01000004 REFT0,"LOCUS       REFT01000004          324979 bp    DNA     linear   BCT 25-OCT-2018
+DEFINITION  Klebsiella pneumoniae strain KP26 (2018)
+            NODE_4_length_324979_cov_10.4786, whole genome shotgun sequence.
+"
+,,,
+12,17,ACCESSION   QCZC01000001 QCZC0,"LOCUS       QCZC01000001          453462 bp    DNA     linear   BCT 01-OCT-2018
+DEFINITION  Klebsiella pneumoniae strain EN5269
+            NODE_1_length_453461_cov_13.4545_pilon, whole genome shotgun
+            sequence.
+"
+,,,
+13,18,ACCESSION   QCZC01000002 QCZC0,"LOCUS       QCZC01000002          356455 bp    DNA     linear   BCT 01-OCT-2018
+DEFINITION  Klebsiella pneumoniae strain EN5269
+            NODE_2_length_356455_cov_14.5444_pilon, whole genome shotgun
+            sequence.
+"
+,,,
+14,19,ACCESSION   QCZC01000003 QCZC0,"LOCUS       QCZC01000003          351384 bp    DNA     linear   BCT 01-OCT-2018
+DEFINITION  Klebsiella pneumoniae strain EN5269
+            NODE_3_length_351384_cov_11.4493_pilon, whole genome shotgun
+            sequence.
+"
+,,,
+15,20,ACCESSION   QCZB01000002 QCZB0,"LOCUS       QCZB01000002          453685 bp    DNA     linear   BCT 01-OCT-2018
+DEFINITION  Klebsiella pneumoniae strain EN5261
+            NODE_2_length_453685_cov_15.0924_pilon, whole genome shotgun
+            sequence.
+"
+,,,
+16,21,ACCESSION   QCZB01000003 QCZB0,"LOCUS       QCZB01000003          431683 bp    DNA     linear   BCT 01-OCT-2018
+DEFINITION  Klebsiella pneumoniae strain EN5261
+            NODE_3_length_431683_cov_15.3898_pilon, whole genome shotgun
+            sequence.
+"
+,,,
+17,22,ACCESSION   QCZB01000004 QCZB0,"LOCUS       QCZB01000004          341683 bp    DNA     linear   BCT 01-OCT-2018
+DEFINITION  Klebsiella pneumoniae strain EN5261
+            NODE_4_length_341683_cov_16.3455_pilon, whole genome shotgun
+            sequence.
+"
+,,,
+18,23,ACCESSION   PYWD01000001 PYWD0,"LOCUS       PYWD01000001          709639 bp    DNA     linear   BCT 01-OCT-2018
+DEFINITION  Klebsiella pneumoniae strain EN5226
+            NODE_1_length_709639_cov_25.4095_pilon, whole genome shotgun
+            sequence.
+"
+,,,
+19,24,ACCESSION   PYWD01000002 PYWD0,"LOCUS       PYWD01000002          576023 bp    DNA     linear   BCT 01-OCT-2018
+DEFINITION  Klebsiella pneumoniae strain EN5226
+            NODE_2_length_576023_cov_26.9317_pilon, whole genome shotgun
+            sequence.
+"
+,,,
+20,25,ACCESSION   PYWD01000003 PYWD0,"LOCUS       PYWD01000003          431683 bp    DNA     linear   BCT 01-OCT-2018
+DEFINITION  Klebsiella pneumoniae strain EN5226
+            NODE_3_length_431683_cov_26.2739_pilon, whole genome shotgun
+            sequence.
+"
+,,,
+21,26,ACCESSION   PYWD01000004 PYWD0,"LOCUS       PYWD01000004          386989 bp    DNA     linear   BCT 01-OCT-2018
+DEFINITION  Klebsiella pneumoniae strain EN5226
+            NODE_4_length_386989_cov_27.7464_pilon, whole genome shotgun
+            sequence.
+"
+,,,
+22,27,ACCESSION   PYWD01000005 PYWD0,"LOCUS       PYWD01000005          351707 bp    DNA     linear   BCT 01-OCT-2018
+DEFINITION  Klebsiella pneumoniae strain EN5226
+            NODE_5_length_351707_cov_21.0486_pilon, whole genome shotgun
+            sequence.
+"
+,,,
+23,28,ACCESSION   PYWE01000002 PYWE0,"LOCUS       PYWE01000002          431683 bp    DNA     linear   BCT 01-OCT-2018
+DEFINITION  Klebsiella pneumoniae strain EN5271
+            NODE_2_length_431683_cov_20.0817_pilon, whole genome shotgun
+            sequence.
+"
+,,,
+24,29,ACCESSION   PYWE01000003 PYWE0,"LOCUS       PYWE01000003          413317 bp    DNA     linear   BCT 01-OCT-2018
+DEFINITION  Klebsiella pneumoniae strain EN5271
+            NODE_3_length_413317_cov_17.8005_pilon, whole genome shotgun
+            sequence.
+"
+,,,
+25,30,ACCESSION   PYWE01000004 PYWE0,"LOCUS       PYWE01000004          400213 bp    DNA     linear   BCT 01-OCT-2018
+DEFINITION  Klebsiella pneumoniae strain EN5271
+            NODE_4_length_400212_cov_17.3251_pilon, whole genome shotgun
+            sequence.
+"
+,,,
+26,31,ACCESSION   PYWE01000005 PYWE0,"LOCUS       PYWE01000005          363042 bp    DNA     linear   BCT 01-OCT-2018
+DEFINITION  Klebsiella pneumoniae strain EN5271
+            NODE_5_length_363042_cov_21.5621_pilon, whole genome shotgun
+            sequence.
+"
+,,,
+27,34,ACCESSION   QNQQ01000001 QNQQ0,"LOCUS       QNQQ01000001          667849 bp    DNA     linear   BCT 09-JUL-2018
+DEFINITION  Klebsiella pneumoniae strain HPCN22 Scaffold_1, whole genome
+            shotgun sequence.
+"
+,,,
+28,35,ACCESSION   QNQQ01000003 QNQQ0,"LOCUS       QNQQ01000003          329791 bp    DNA     linear   BCT 09-JUL-2018
+DEFINITION  Klebsiella pneumoniae strain HPCN22 Scaffold_3, whole genome
+            shotgun sequence.
+"
+,,,
+29,36,ACCESSION   QNQQ01000004 QNQQ0,"LOCUS       QNQQ01000004          399975 bp    DNA     linear   BCT 09-JUL-2018
+DEFINITION  Klebsiella pneumoniae strain HPCN22 Scaffold_4, whole genome
+            shotgun sequence.
+"
+,,,
+30,37,ACCESSION   QNQQ01000005 QNQQ0,"LOCUS       QNQQ01000005          370277 bp    DNA     linear   BCT 09-JUL-2018
+DEFINITION  Klebsiella pneumoniae strain HPCN22 Scaffold_5, whole genome
+            shotgun sequence.
+"
+,,,
+31,38,ACCESSION   QNQQ01000006 QNQQ0,"LOCUS       QNQQ01000006          361635 bp    DNA     linear   BCT 09-JUL-2018
+DEFINITION  Klebsiella pneumoniae strain HPCN22 Scaffold_6, whole genome
+            shotgun sequence.
+"
+,,,
+32,39,ACCESSION   QNQQ01000007 QNQQ0,"LOCUS       QNQQ01000007          309639 bp    DNA     linear   BCT 09-JUL-2018
+DEFINITION  Klebsiella pneumoniae strain HPCN22 Scaffold_7, whole genome
+            shotgun sequence.
+"
+,,,
+33,40,ACCESSION   QGNV01000002 QGNV0,"LOCUS       QGNV01000002          466935 bp    DNA     linear   BCT 28-MAY-2018
+DEFINITION  Klebsiella pneumoniae strain HPCN17 Scaffold_2, whole genome
+            shotgun sequence.
+"
+,,,
+34,41,ACCESSION   QGNV01000003 QGNV0,"LOCUS       QGNV01000003          441979 bp    DNA     linear   BCT 28-MAY-2018
+DEFINITION  Klebsiella pneumoniae strain HPCN17 Scaffold_3, whole genome
+            shotgun sequence.
+"
+,,,
+35,42,ACCESSION   QGNV01000004 QGNV0,"LOCUS       QGNV01000004          370153 bp    DNA     linear   BCT 28-MAY-2018
+DEFINITION  Klebsiella pneumoniae strain HPCN17 Scaffold_4, whole genome
+            shotgun sequence.
+"
+,,,
+36,43,ACCESSION   QGNV01000005 QGNV0,"LOCUS       QGNV01000005          361643 bp    DNA     linear   BCT 28-MAY-2018
+DEFINITION  Klebsiella pneumoniae strain HPCN17 Scaffold_5, whole genome
+            shotgun sequence.
+"
+,,,
+37,44,ACCESSION   QGNV01000006 QGNV0,"LOCUS       QGNV01000006          359502 bp    DNA     linear   BCT 28-MAY-2018
+DEFINITION  Klebsiella pneumoniae strain HPCN17 Scaffold_6, whole genome
+            shotgun sequence.
+"
+,,,
+38,45,ACCESSION   QGHI01000001 QGHI0,"LOCUS       QGHI01000001          667538 bp    DNA     linear   BCT 25-MAY-2018
+DEFINITION  Klebsiella pneumoniae strain HPCN5 Scaffold_1, whole genome shotgun
+            sequence.
+"
+,,,
+39,46,ACCESSION   QGHI01000002 QGHI0,"LOCUS       QGHI01000002          606212 bp    DNA     linear   BCT 25-MAY-2018
+DEFINITION  Klebsiella pneumoniae strain HPCN5 Scaffold_2, whole genome shotgun
+            sequence.
+"
+,,,
+40,47,ACCESSION   QGHI01000003 QGHI0,"LOCUS       QGHI01000003          424193 bp    DNA     linear   BCT 25-MAY-2018
+DEFINITION  Klebsiella pneumoniae strain HPCN5 Scaffold_3, whole genome shotgun
+            sequence.
+"
+,,,
+41,48,ACCESSION   QGHI01000004 QGHI0,"LOCUS       QGHI01000004          399674 bp    DNA     linear   BCT 25-MAY-2018
+DEFINITION  Klebsiella pneumoniae strain HPCN5 Scaffold_4, whole genome shotgun
+            sequence.
+"
+,,,
+42,49,ACCESSION   QGHI01000005 QGHI0,"LOCUS       QGHI01000005          357031 bp    DNA     linear   BCT 25-MAY-2018
+DEFINITION  Klebsiella pneumoniae strain HPCN5 Scaffold_5, whole genome shotgun
+            sequence.
+"
+,,,
+43,50,ACCESSION   QGHI01000006 QGHI0,"LOCUS       QGHI01000006          340520 bp    DNA     linear   BCT 25-MAY-2018
+DEFINITION  Klebsiella pneumoniae strain HPCN5 Scaffold_6, whole genome shotgun
+            sequence.
+"
+,,,
+44,51,ACCESSION   QGHI01000007 QGHI0,"LOCUS       QGHI01000007          314192 bp    DNA     linear   BCT 25-MAY-2018
+DEFINITION  Klebsiella pneumoniae strain HPCN5 Scaffold_7, whole genome shotgun
+            sequence.
+"
+,,,
+45,52,ACCESSION   QGHI01000008 QGHI0,"LOCUS       QGHI01000008          307021 bp    DNA     linear   BCT 25-MAY-2018
+DEFINITION  Klebsiella pneumoniae strain HPCN5 Scaffold_8, whole genome shotgun
+            sequence.
+"
+,,,
+46,53,ACCESSION   PYUM01000001 PYUM0,"LOCUS       PYUM01000001          348123 bp    DNA     linear   BCT 01-APR-2018
+DEFINITION  Klebsiella pneumoniae strain PM9016
+            NODE_1_length_348123_cov_39.0797_ID_1, whole genome shotgun
+            sequence.
+"
+,,,
+47,54,ACCESSION   PYSM01000001 PYSM0,"LOCUS       PYSM01000001          307375 bp    DNA     linear   BCT 01-APR-2018
+DEFINITION  Klebsiella pneumoniae strain VBP1492
+            NODE_1_length_307375_cov_37.8471_ID_1, whole genome shotgun
+            sequence.
+"
+,,,
+48,55,ACCESSION   PUIG01000001 PUIG0,"LOCUS       PUIG01000001          465730 bp    DNA     linear   BCT 03-MAR-2018
+DEFINITION  Klebsiella pneumoniae strain BP737
+            NODE_1_length_465730_cov_106.692_ID_1, whole genome shotgun
+            sequence.
+"
+,,,
+49,56,ACCESSION   PPXS01000001 PPXS0,"LOCUS       PPXS01000001          555686 bp    DNA     linear   BCT 31-JAN-2018
+DEFINITION  Klebsiella pneumoniae strain BA29256
+            NODE_1_length_555686_cov_70.6792_ID_1, whole genome shotgun
+            sequence.
+"
+,,,
+50,57,ACCESSION   PPXV01000001 PPXV0,"LOCUS       PPXV01000001          323233 bp    DNA     linear   BCT 31-JAN-2018
+DEFINITION  Klebsiella pneumoniae strain BA38014
+            NODE_1_length_323233_cov_28.0047_ID_1, whole genome shotgun
+            sequence.
+"
+,,,
+51,58,ACCESSION   PPXV01000002 PPXV0,"LOCUS       PPXV01000002          300487 bp    DNA     linear   BCT 31-JAN-2018
+DEFINITION  Klebsiella pneumoniae strain BA38014
+            NODE_2_length_300487_cov_20.4241_ID_3, whole genome shotgun
+            sequence.
+"
+,,,
+52,66,ACCESSION   PKOK01000001 PKOK0,"LOCUS       PKOK01000001          345407 bp    DNA     linear   BCT 02-JAN-2018
+DEFINITION  Klebsiella pneumoniae strain BA1625
+            NODE_1_length_345407_cov_18.6755_ID_1, whole genome shotgun
+            sequence.
+"
+,,,
+53,67,ACCESSION   PKOK01000002 PKOK0,"LOCUS       PKOK01000002          339406 bp    DNA     linear   BCT 02-JAN-2018
+DEFINITION  Klebsiella pneumoniae strain BA1625
+            NODE_2_length_339406_cov_17.9039_ID_3, whole genome shotgun
+            sequence.
+"
+,,,
+54,68,ACCESSION   PJQK01000001 PJQK0,"LOCUS       PJQK01000001          337764 bp    DNA     linear   BCT 20-DEC-2017
+DEFINITION  Klebsiella pneumoniae strain C13
+            NODE_1_length_337764_cov_49.3389_ID_1, whole genome shotgun
+            sequence.
+"
+,,,
+55,69,ACCESSION   PJQK01000002 PJQK0,"LOCUS       PJQK01000002          300175 bp    DNA     linear   BCT 20-DEC-2017
+DEFINITION  Klebsiella pneumoniae strain C13
+            NODE_2_length_300175_cov_33.2417_ID_3, whole genome shotgun
+            sequence.
+"
+,,,
+56,70,ACCESSION   PJOP01000001 PJOP0,"LOCUS       PJOP01000001          368971 bp    DNA     linear   BCT 19-DEC-2017
+DEFINITION  Klebsiella pneumoniae strain BA2908
+            NODE_1_length_368971_cov_17.9516_ID_1, whole genome shotgun
+            sequence.
+"
+,,,
+57,71,ACCESSION   PJOP01000002 PJOP0,"LOCUS       PJOP01000002          323906 bp    DNA     linear   BCT 19-DEC-2017
+DEFINITION  Klebsiella pneumoniae strain BA2908
+            NODE_2_length_323906_cov_13.6302_ID_3, whole genome shotgun
+            sequence.
+"
+,,,
+58,72,ACCESSION   PJOP01000003 PJOP0,"LOCUS       PJOP01000003          322782 bp    DNA     linear   BCT 19-DEC-2017
+DEFINITION  Klebsiella pneumoniae strain BA2908
+            NODE_3_length_322782_cov_20.0033_ID_5, whole genome shotgun
+            sequence.
+"
+,,,
+59,73,ACCESSION   NSEC01000001 NSEC0,"LOCUS       NSEC01000001          379763 bp    DNA     linear   BCT 31-OCT-2017
+DEFINITION  Klebsiella pneumoniae strain VB1347
+            NODE_1_length_379763_cov_26.4617_ID_1, whole genome shotgun
+            sequence.
+"
+,,,
+60,74,ACCESSION   NSEC01000002 NSEC0,"LOCUS       NSEC01000002          310282 bp    DNA     linear   BCT 31-OCT-2017
+DEFINITION  Klebsiella pneumoniae strain VB1347
+            NODE_2_length_310282_cov_17.534_ID_3, whole genome shotgun
+            sequence.
+"
+,,,
+61,75,ACCESSION   NSCV01000001 NSCV0,"LOCUS       NSCV01000001          344699 bp    DNA     linear   BCT 26-OCT-2017
+DEFINITION  Klebsiella pneumoniae strain VBA3720
+            NODE_1_length_344699_cov_36.6511_ID_1, whole genome shotgun
+            sequence.
+"
+,,,
+62,76,ACCESSION   NSCV01000002 NSCV0,"LOCUS       NSCV01000002          337743 bp    DNA     linear   BCT 26-OCT-2017
+DEFINITION  Klebsiella pneumoniae strain VBA3720
+            NODE_2_length_337743_cov_41.4812_ID_3, whole genome shotgun
+            sequence.
+"
+,,,
+63,77,ACCESSION   NQMT01000001 NQMT0,"LOCUS       NQMT01000001          368502 bp    DNA     linear   BCT 12-OCT-2017
+DEFINITION  Klebsiella pneumoniae strain KpIMS38
+            NODE_1_length_368502_cov_73.2417_ID_1, whole genome shotgun
+            sequence.
+"
+,,,
+64,78,ACCESSION   NQMT01000002 NQMT0,"LOCUS       NQMT01000002          322528 bp    DNA     linear   BCT 12-OCT-2017
+DEFINITION  Klebsiella pneumoniae strain KpIMS38
+            NODE_2_length_322528_cov_69.9462_ID_3, whole genome shotgun
+            sequence.
+"
+,,,
+65,79,ACCESSION   NRIS01000001 NRIS0,"LOCUS       NRIS01000001          340399 bp    DNA     linear   BCT 11-OCT-2017
+DEFINITION  Enterobacter cloacae strain EspIMS6
+            NODE_1_length_340399_cov_126.162_ID_1, whole genome shotgun
+            sequence.
+"
+,,,
+66,80,ACCESSION   NRIS01000002 NRIS0,"LOCUS       NRIS01000002          335289 bp    DNA     linear   BCT 11-OCT-2017
+DEFINITION  Enterobacter cloacae strain EspIMS6
+            NODE_2_length_335289_cov_104.182_ID_3, whole genome shotgun
+            sequence.
+"
+,,,
+67,81,ACCESSION   NRIS01000003 NRIS0,"LOCUS       NRIS01000003          312472 bp    DNA     linear   BCT 11-OCT-2017
+DEFINITION  Enterobacter cloacae strain EspIMS6
+            NODE_3_length_312472_cov_71.2439_ID_5, whole genome shotgun
+            sequence.
+"
+,,,
+68,82,ACCESSION   NRIS01000004 NRIS0,"LOCUS       NRIS01000004          305921 bp    DNA     linear   BCT 11-OCT-2017
+DEFINITION  Enterobacter cloacae strain EspIMS6
+            NODE_4_length_305921_cov_97.7792_ID_7, whole genome shotgun
+            sequence.
+"
+,,,
+69,83,ACCESSION   NMPY01000001 NMPY0,"LOCUS       NMPY01000001          323802 bp    DNA     linear   BCT 11-OCT-2017
+DEFINITION  Klebsiella quasipneumoniae strain DL5.4
+            NODE_1_length_323802_cov_57.7269_ID_1, whole genome shotgun
+            sequence.
+"
+,,,
+70,84,ACCESSION   NXFO01000001 NXFO0,"LOCUS       NXFO01000001          337767 bp    DNA     linear   BCT 01-OCT-2017
+DEFINITION  Klebsiella pneumoniae strain C22
+            NODE_1_length_337767_cov_34.5408_ID_1, whole genome shotgun
+            sequence.
+"
+,,,
+71,85,ACCESSION   NXFM01000001 NXFM0,"LOCUS       NXFM01000001          388294 bp    DNA     linear   BCT 01-OCT-2017
+DEFINITION  Klebsiella pneumoniae strain C17
+            NODE_1_length_388294_cov_36.3526_ID_1, whole genome shotgun
+            sequence.
+"
+,,,
+72,86,ACCESSION   NXFM01000002 NXFM0,"LOCUS       NXFM01000002          355013 bp    DNA     linear   BCT 01-OCT-2017
+DEFINITION  Klebsiella pneumoniae strain C17
+            NODE_2_length_355013_cov_41.1638_ID_3, whole genome shotgun
+            sequence.
+"
+,,,
+73,87,ACCESSION   NXFM01000003 NXFM0,"LOCUS       NXFM01000003          337773 bp    DNA     linear   BCT 01-OCT-2017
+DEFINITION  Klebsiella pneumoniae strain C17
+            NODE_3_length_337773_cov_47.7032_ID_5, whole genome shotgun
+            sequence.
+"
+,,,
+74,88,ACCESSION   NXFM01000004 NXFM0,"LOCUS       NXFM01000004          319087 bp    DNA     linear   BCT 01-OCT-2017
+DEFINITION  Klebsiella pneumoniae strain C17
+            NODE_4_length_319087_cov_33.7388_ID_7, whole genome shotgun
+            sequence.
+"
+,,,
+75,89,ACCESSION   NXFM01000005 NXFM0,"LOCUS       NXFM01000005          300261 bp    DNA     linear   BCT 01-OCT-2017
+DEFINITION  Klebsiella pneumoniae strain C17
+            NODE_5_length_300261_cov_29.7789_ID_9, whole genome shotgun
+            sequence.
+"
+,,,
+76,90,ACCESSION   NXFL01000001 NXFL0,"LOCUS       NXFL01000001          328886 bp    DNA     linear   BCT 01-OCT-2017
+DEFINITION  Klebsiella pneumoniae strain C16
+            NODE_1_length_328886_cov_28.1509_ID_1, whole genome shotgun
+            sequence.
+"
+,,,
+77,91,ACCESSION   NXFN01000001 NXFN0,"LOCUS       NXFN01000001          526660 bp    DNA     linear   BCT 01-OCT-2017
+DEFINITION  Klebsiella pneumoniae strain C18
+            NODE_1_length_526660_cov_35.8133_ID_1, whole genome shotgun
+            sequence.
+"
+,,,
+78,92,ACCESSION   NXFN01000002 NXFN0,"LOCUS       NXFN01000002          337766 bp    DNA     linear   BCT 01-OCT-2017
+DEFINITION  Klebsiella pneumoniae strain C18
+            NODE_2_length_337766_cov_46.2946_ID_3, whole genome shotgun
+            sequence.
+"
+,,,
+79,93,ACCESSION   NXFN01000003 NXFN0,"LOCUS       NXFN01000003          309081 bp    DNA     linear   BCT 01-OCT-2017
+DEFINITION  Klebsiella pneumoniae strain C18
+            NODE_3_length_309081_cov_30.7111_ID_5, whole genome shotgun
+            sequence.
+"
+,,,
+80,94,ACCESSION   NXFN01000004 NXFN0,"LOCUS       NXFN01000004          300215 bp    DNA     linear   BCT 01-OCT-2017
+DEFINITION  Klebsiella pneumoniae strain C18
+            NODE_4_length_300215_cov_31.3508_ID_7, whole genome shotgun
+            sequence.
+"
+,,,
+81,95,ACCESSION   NXFK01000001 NXFK0,"LOCUS       NXFK01000001          526654 bp    DNA     linear   BCT 01-OCT-2017
+DEFINITION  Klebsiella pneumoniae strain C15
+            NODE_1_length_526654_cov_46.6705_ID_1, whole genome shotgun
+            sequence.
+"
+,,,
+82,96,ACCESSION   NXFK01000002 NXFK0,"LOCUS       NXFK01000002          388278 bp    DNA     linear   BCT 01-OCT-2017
+DEFINITION  Klebsiella pneumoniae strain C15
+            NODE_2_length_388278_cov_50.1426_ID_3, whole genome shotgun
+            sequence.
+"
+,,,
+83,97,ACCESSION   NXFK01000003 NXFK0,"LOCUS       NXFK01000003          337765 bp    DNA     linear   BCT 01-OCT-2017
+DEFINITION  Klebsiella pneumoniae strain C15
+            NODE_3_length_337765_cov_64.5956_ID_5, whole genome shotgun
+            sequence.
+"
+,,,
+84,98,ACCESSION   NXFK01000004 NXFK0,"LOCUS       NXFK01000004          332276 bp    DNA     linear   BCT 01-OCT-2017
+DEFINITION  Klebsiella pneumoniae strain C15
+            NODE_4_length_332276_cov_37.3027_ID_7, whole genome shotgun
+            sequence.
+"
+,,,
+85,99,ACCESSION   NXFK01000005 NXFK0,"LOCUS       NXFK01000005          300332 bp    DNA     linear   BCT 01-OCT-2017
+DEFINITION  Klebsiella pneumoniae strain C15
+            NODE_5_length_300332_cov_41.1135_ID_9, whole genome shotgun
+            sequence.
+"
+,,,
+86,100,ACCESSION   NXFJ01000001 NXFJ0,"LOCUS       NXFJ01000001          371873 bp    DNA     linear   BCT 01-OCT-2017
+DEFINITION  Klebsiella pneumoniae strain C12
+            NODE_1_length_371873_cov_31.8036_ID_1, whole genome shotgun
+            sequence.
+"
+,,,
+87,101,ACCESSION   NXDU01000001 NXDU0,"LOCUS       NXDU01000001          337753 bp    DNA     linear   BCT 30-SEP-2017
+DEFINITION  Klebsiella pneumoniae strain C8
+            NODE_1_length_337753_cov_31.031_ID_1, whole genome shotgun
+            sequence.
+"
+,,,
+88,102,ACCESSION   NXDT01000001 NXDT0,"LOCUS       NXDT01000001          555668 bp    DNA     linear   BCT 30-SEP-2017
+DEFINITION  Klebsiella pneumoniae strain C7
+            NODE_1_length_555668_cov_41.4405_ID_1, whole genome shotgun
+            sequence.
+"
+,,,
+89,103,ACCESSION   NXDT01000002 NXDT0,"LOCUS       NXDT01000002          326025 bp    DNA     linear   BCT 30-SEP-2017
+DEFINITION  Klebsiella pneumoniae strain C7
+            NODE_2_length_326025_cov_36.2395_ID_3, whole genome shotgun
+            sequence.
+"
+,,,
+90,104,ACCESSION   NXDS01000001 NXDS0,"LOCUS       NXDS01000001          354961 bp    DNA     linear   BCT 30-SEP-2017
+DEFINITION  Klebsiella pneumoniae strain C6
+            NODE_1_length_354961_cov_47.0069_ID_1, whole genome shotgun
+            sequence.
+"
+,,,
+91,105,ACCESSION   NXDS01000002 NXDS0,"LOCUS       NXDS01000002          337761 bp    DNA     linear   BCT 30-SEP-2017
+DEFINITION  Klebsiella pneumoniae strain C6
+            NODE_2_length_337761_cov_54.5036_ID_3, whole genome shotgun
+            sequence.
+"
+,,,
+92,106,ACCESSION   NXDS01000003 NXDS0,"LOCUS       NXDS01000003          300151 bp    DNA     linear   BCT 30-SEP-2017
+DEFINITION  Klebsiella pneumoniae strain C6
+            NODE_3_length_300151_cov_34.3114_ID_5, whole genome shotgun
+            sequence.
+"
+,,,
+93,107,ACCESSION   NXDR01000001 NXDR0,"LOCUS       NXDR01000001          526511 bp    DNA     linear   BCT 30-SEP-2017
+DEFINITION  Klebsiella pneumoniae strain C5
+            NODE_1_length_526511_cov_57.1642_ID_1, whole genome shotgun
+            sequence.
+"
+,,,
+94,108,ACCESSION   NXDR01000002 NXDR0,"LOCUS       NXDR01000002          337771 bp    DNA     linear   BCT 30-SEP-2017
+DEFINITION  Klebsiella pneumoniae strain C5
+            NODE_2_length_337771_cov_71.9659_ID_3, whole genome shotgun
+            sequence.
+"
+,,,
+95,109,ACCESSION   NXDR01000003 NXDR0,"LOCUS       NXDR01000003          333110 bp    DNA     linear   BCT 30-SEP-2017
+DEFINITION  Klebsiella pneumoniae strain C5
+            NODE_3_length_333110_cov_47.3241_ID_5, whole genome shotgun
+            sequence.
+"
+,,,
+96,110,ACCESSION   NXDR01000004 NXDR0,"LOCUS       NXDR01000004          300210 bp    DNA     linear   BCT 30-SEP-2017
+DEFINITION  Klebsiella pneumoniae strain C5
+            NODE_4_length_300210_cov_51.0139_ID_7, whole genome shotgun
+            sequence.
+"
+,,,
+97,111,ACCESSION   NXDQ01000001 NXDQ0,"LOCUS       NXDQ01000001          381015 bp    DNA     linear   BCT 30-SEP-2017
+DEFINITION  Klebsiella pneumoniae strain C4
+            NODE_1_length_381015_cov_32.2298_ID_1, whole genome shotgun
+            sequence.
+"
+,,,
+98,112,ACCESSION   NXDQ01000002 NXDQ0,"LOCUS       NXDQ01000002          337762 bp    DNA     linear   BCT 30-SEP-2017
+DEFINITION  Klebsiella pneumoniae strain C4
+            NODE_2_length_337762_cov_44.989_ID_3, whole genome shotgun
+            sequence.
+"
+,,,
+99,113,ACCESSION   NWVU01000001 NWVU0,"LOCUS       NWVU01000001          337759 bp    DNA     linear   BCT 27-SEP-2017
+DEFINITION  Klebsiella pneumoniae strain C3
+            NODE_1_length_337759_cov_39.2647_ID_1, whole genome shotgun
+            sequence.
+"
+,,,
+100,114,ACCESSION   NWVU01000002 NWVU0,"LOCUS       NWVU01000002          309015 bp    DNA     linear   BCT 27-SEP-2017
+DEFINITION  Klebsiella pneumoniae strain C3
+            NODE_2_length_309015_cov_26.3921_ID_3, whole genome shotgun
+            sequence.
+"
+,,,
+101,115,ACCESSION   NWUP01000001 NWUP0,"LOCUS       NWUP01000001          388289 bp    DNA     linear   BCT 26-SEP-2017
+DEFINITION  Klebsiella pneumoniae strain C1
+            NODE_1_length_388289_cov_66.8655_ID_1, whole genome shotgun
+            sequence.
+"
+,,,
+102,116,ACCESSION   NWUP01000002 NWUP0,"LOCUS       NWUP01000002          362641 bp    DNA     linear   BCT 26-SEP-2017
+DEFINITION  Klebsiella pneumoniae strain C1
+            NODE_2_length_362641_cov_61.7161_ID_3, whole genome shotgun
+            sequence.
+"
+,,,
+103,117,ACCESSION   NWUP01000003 NWUP0,"LOCUS       NWUP01000003          337772 bp    DNA     linear   BCT 26-SEP-2017
+DEFINITION  Klebsiella pneumoniae strain C1
+            NODE_3_length_337772_cov_88.8787_ID_5, whole genome shotgun
+            sequence.
+"
+,,,
+104,118,ACCESSION   NWUP01000004 NWUP0,"LOCUS       NWUP01000004          300183 bp    DNA     linear   BCT 26-SEP-2017
+DEFINITION  Klebsiella pneumoniae strain C1
+            NODE_4_length_300183_cov_55.5975_ID_7, whole genome shotgun
+            sequence.
+"
+,,,
+105,119,ACCESSION   NTHS01000001 NTHS0,"LOCUS       NTHS01000001          438626 bp    DNA     linear   BCT 13-SEP-2017
+DEFINITION  Klebsiella pneumoniae strain BA2817
+            NODE_1_length_438626_cov_35.0434_ID_1, whole genome shotgun
+            sequence.
+"
+,,,
+106,120,ACCESSION   NTHS01000002 NTHS0,"LOCUS       NTHS01000002          372369 bp    DNA     linear   BCT 13-SEP-2017
+DEFINITION  Klebsiella pneumoniae strain BA2817
+            NODE_2_length_372369_cov_43.4598_ID_3, whole genome shotgun
+            sequence.
+"
+,,,
+107,121,ACCESSION   NTHS01000003 NTHS0,"LOCUS       NTHS01000003          359486 bp    DNA     linear   BCT 13-SEP-2017
+DEFINITION  Klebsiella pneumoniae strain BA2817
+            NODE_3_length_359486_cov_29.5128_ID_5, whole genome shotgun
+            sequence.
+"
+,,,
+108,122,ACCESSION   NTHS01000004 NTHS0,"LOCUS       NTHS01000004          348458 bp    DNA     linear   BCT 13-SEP-2017
+DEFINITION  Klebsiella pneumoniae strain BA2817
+            NODE_4_length_348458_cov_38.9368_ID_7, whole genome shotgun
+            sequence.
+"
+,,,
+109,123,ACCESSION   NTHS01000005 NTHS0,"LOCUS       NTHS01000005          301792 bp    DNA     linear   BCT 13-SEP-2017
+DEFINITION  Klebsiella pneumoniae strain BA2817
+            NODE_5_length_301792_cov_23.6574_ID_9, whole genome shotgun
+            sequence.
+"
+,,,
+120,124,ACCESSION   MZXR01000041 MZXR0,"LOCUS       MZXR01000041          300752 bp    DNA     linear   BCT 01-AUG-2017
+DEFINITION  Klebsiella pneumoniae strain OK8 jcf7180000003511, whole genome
+            shotgun sequence.
+"
+,,,
+121,125,ACCESSION   MZXR01000044 MZXR0,"LOCUS       MZXR01000044          365817 bp    DNA     linear   BCT 01-AUG-2017
+DEFINITION  Klebsiella pneumoniae strain OK8 jcf7180000003514, whole genome
+            shotgun sequence.
+"
+,,,
+122,126,ACCESSION   MZXR01000046 MZXR0,"LOCUS       MZXR01000046          360430 bp    DNA     linear   BCT 01-AUG-2017
+DEFINITION  Klebsiella pneumoniae strain OK8 jcf7180000003516, whole genome
+            shotgun sequence.
+"
+,,,
+123,127,ACCESSION   MZXR01000048 MZXR0,"LOCUS       MZXR01000048          346218 bp    DNA     linear   BCT 01-AUG-2017
+DEFINITION  Klebsiella pneumoniae strain OK8 jcf7180000003518, whole genome
+            shotgun sequence.
+"
+,,,
+124,128,ACCESSION   MZXR01000064 MZXR0,"LOCUS       MZXR01000064          359317 bp    DNA     linear   BCT 01-AUG-2017
+DEFINITION  Klebsiella pneumoniae strain OK8 jcf7180000003534, whole genome
+            shotgun sequence.
+"
+,,,
+125,129,ACCESSION   MIEJ01000109 MIEJ0,"LOCUS       MIEJ01000109          675306 bp    DNA     linear   BCT 12-DEC-2016
+DEFINITION  Klebsiella pneumoniae strain B16470
+            NODE_1_length_675306_cov_20.469_ID_1, whole genome shotgun
+            sequence.
+"
+,,,
+126,130,ACCESSION   MPCT01000001 MPCT0,"LOCUS       MPCT01000001          458891 bp    DNA     linear   BCT 08-DEC-2016
+DEFINITION  Klebsiella pneumoniae strain CMC_VB34444
+            NODE_1_length_458891_cov_27.028_ID_1, whole genome shotgun
+            sequence.
+"
+,,,
+127,131,ACCESSION   MNPG01000001 MNPG0,"LOCUS       MNPG01000001          561579 bp    DNA     linear   BCT 16-NOV-2016
+DEFINITION  Klebsiella pneumoniae strain PM138
+            NODE_1_length_561579_cov_23.0113_ID_1, whole genome shotgun
+            sequence.
+"
+,,,
+128,132,ACCESSION   MNPH01000001 MNPH0,"LOCUS       MNPH01000001          349692 bp    DNA     linear   BCT 16-NOV-2016
+DEFINITION  Klebsiella pneumoniae strain PM716
+            NODE_1_length_349692_cov_23.4308_ID_1, whole genome shotgun
+            sequence.
+"
+,,,
+129,133,ACCESSION   MNPF01000001 MNPF0,"LOCUS       MNPF01000001          333549 bp    DNA     linear   BCT 16-NOV-2016
+DEFINITION  Klebsiella pneumoniae strain PM1134
+            NODE_1_length_333549_cov_26.2964_ID_1, whole genome shotgun
+            sequence.
+"
+,,,
+130,134,ACCESSION   MNPE01000001 MNPE0,"LOCUS       MNPE01000001          356605 bp    DNA     linear   BCT 16-NOV-2016
+DEFINITION  Klebsiella pneumoniae strain PM5186
+            NODE_1_length_356605_cov_27.152_ID_1, whole genome shotgun
+            sequence.
+"
+,,,
+131,135,ACCESSION   MNPE01000002 MNPE0,"LOCUS       MNPE01000002          354929 bp    DNA     linear   BCT 16-NOV-2016
+DEFINITION  Klebsiella pneumoniae strain PM5186
+            NODE_2_length_354929_cov_24.0075_ID_3, whole genome shotgun
+            sequence.
+"
+,,,
+132,136,ACCESSION   MNPD01000001 MNPD0,"LOCUS       MNPD01000001          756863 bp    DNA     linear   BCT 16-NOV-2016
+DEFINITION  Klebsiella pneumoniae strain PM1995
+            NODE_1_length_756863_cov_32.0476_ID_1, whole genome shotgun
+            sequence.
+"
+,,,
+133,137,ACCESSION   MNPD01000002 MNPD0,"LOCUS       MNPD01000002          415964 bp    DNA     linear   BCT 16-NOV-2016
+DEFINITION  Klebsiella pneumoniae strain PM1995
+            NODE_2_length_415964_cov_23.5658_ID_3, whole genome shotgun
+            sequence.
+"
+,,,
+134,138,ACCESSION   MNPD01000003 MNPD0,"LOCUS       MNPD01000003          391647 bp    DNA     linear   BCT 16-NOV-2016
+DEFINITION  Klebsiella pneumoniae strain PM1995
+            NODE_3_length_391647_cov_28.0132_ID_5, whole genome shotgun
+            sequence.
+"
+,,,
+135,139,ACCESSION   MNPD01000004 MNPD0,"LOCUS       MNPD01000004          383508 bp    DNA     linear   BCT 16-NOV-2016
+DEFINITION  Klebsiella pneumoniae strain PM1995
+            NODE_4_length_383508_cov_25.5691_ID_7, whole genome shotgun
+            sequence.
+"
+,,,
+136,140,ACCESSION   MNPA01000001 MNPA0,"LOCUS       MNPA01000001          467970 bp    DNA     linear   BCT 16-NOV-2016
+DEFINITION  Klebsiella pneumoniae strain PM1168
+            NODE_1_length_467970_cov_18.1266_ID_1, whole genome shotgun
+            sequence.
+"
+,,,
+137,141,ACCESSION   MNPA01000002 MNPA0,"LOCUS       MNPA01000002          337766 bp    DNA     linear   BCT 16-NOV-2016
+DEFINITION  Klebsiella pneumoniae strain PM1168
+            NODE_2_length_337766_cov_21.2868_ID_3, whole genome shotgun
+            sequence.
+"
+,,,
+138,142,ACCESSION   MNPA01000003 MNPA0,"LOCUS       MNPA01000003          307965 bp    DNA     linear   BCT 16-NOV-2016
+DEFINITION  Klebsiella pneumoniae strain PM1168
+            NODE_3_length_307965_cov_19.2493_ID_5, whole genome shotgun
+            sequence.
+"
+,,,
+139,143,ACCESSION   MNPB01000001 MNPB0,"LOCUS       MNPB01000001          561557 bp    DNA     linear   BCT 16-NOV-2016
+DEFINITION  Klebsiella pneumoniae strain PM565
+            NODE_1_length_561557_cov_25.5044_ID_1, whole genome shotgun
+            sequence.
+"
+,,,
+140,144,ACCESSION   MNPB01000002 MNPB0,"LOCUS       MNPB01000002          320727 bp    DNA     linear   BCT 16-NOV-2016
+DEFINITION  Klebsiella pneumoniae strain PM565
+            NODE_2_length_320727_cov_19.9847_ID_3, whole genome shotgun
+            sequence.
+"
+,,,
+141,145,ACCESSION   MNPC01000001 MNPC0,"LOCUS       MNPC01000001          532559 bp    DNA     linear   BCT 16-NOV-2016
+DEFINITION  Klebsiella pneumoniae strain PM1842
+            NODE_1_length_532559_cov_22.8309_ID_1, whole genome shotgun
+            sequence.
+"
+,,,
+142,146,ACCESSION   MNPC01000002 MNPC0,"LOCUS       MNPC01000002          304083 bp    DNA     linear   BCT 16-NOV-2016
+DEFINITION  Klebsiella pneumoniae strain PM1842
+            NODE_2_length_304083_cov_29.9339_ID_3, whole genome shotgun
+            sequence.
+"
+,,,
+143,148,ACCESSION   MOXM01000001 MOXM0,"LOCUS       MOXM01000001          411924 bp    DNA     linear   BCT 10-NOV-2016
+DEFINITION  Klebsiella pneumoniae strain CMC_VB13923
+            NODE_1_length_411924_cov_16.1179_ID_1, whole genome shotgun
+            sequence.
+"
+,,,
+144,149,ACCESSION   MOXN01000001 MOXN0,"LOCUS       MOXN01000001          380916 bp    DNA     linear   BCT 10-NOV-2016
+DEFINITION  Klebsiella pneumoniae strain CMC_VB5505
+            NODE_1_length_380916_cov_25.9251_ID_1, whole genome shotgun
+            sequence.
+"
+,,,
+145,150,ACCESSION   MOXN01000002 MOXN0,"LOCUS       MOXN01000002          356614 bp    DNA     linear   BCT 10-NOV-2016
+DEFINITION  Klebsiella pneumoniae strain CMC_VB5505
+            NODE_2_length_356614_cov_26.7178_ID_3, whole genome shotgun
+            sequence.
+"
+,,,
+146,151,ACCESSION   MOXN01000003 MOXN0,"LOCUS       MOXN01000003          354732 bp    DNA     linear   BCT 10-NOV-2016
+DEFINITION  Klebsiella pneumoniae strain CMC_VB5505
+            NODE_3_length_354732_cov_23.0484_ID_5, whole genome shotgun
+            sequence.
+"
+,,,
+147,152,ACCESSION   MOXN01000004 MOXN0,"LOCUS       MOXN01000004          354467 bp    DNA     linear   BCT 10-NOV-2016
+DEFINITION  Klebsiella pneumoniae strain CMC_VB5505
+            NODE_4_length_354467_cov_13.4958_ID_7, whole genome shotgun
+            sequence.
+"
+,,,
+148,153,ACCESSION   MOXN01000005 MOXN0,"LOCUS       MOXN01000005          331840 bp    DNA     linear   BCT 10-NOV-2016
+DEFINITION  Klebsiella pneumoniae strain CMC_VB5505
+            NODE_5_length_331840_cov_18.8178_ID_9, whole genome shotgun
+            sequence.
+"
+,,,
+149,154,ACCESSION   MOXL01000001 MOXL0,"LOCUS       MOXL01000001          566554 bp    DNA     linear   BCT 10-NOV-2016
+DEFINITION  Klebsiella pneumoniae strain CMC_VB35168
+            NODE_1_length_566554_cov_39.316_ID_1, whole genome shotgun
+            sequence.
+"
+,,,
+150,155,ACCESSION   MOXL01000002 MOXL0,"LOCUS       MOXL01000002          460705 bp    DNA     linear   BCT 10-NOV-2016
+DEFINITION  Klebsiella pneumoniae strain CMC_VB35168
+            NODE_2_length_460705_cov_31.7003_ID_3, whole genome shotgun
+            sequence.
+"
+,,,
+151,156,ACCESSION   MOXL01000003 MOXL0,"LOCUS       MOXL01000003          450685 bp    DNA     linear   BCT 10-NOV-2016
+DEFINITION  Klebsiella pneumoniae strain CMC_VB35168
+            NODE_3_length_450685_cov_29.7904_ID_5, whole genome shotgun
+            sequence.
+"
+,,,
+152,157,ACCESSION   MOXL01000004 MOXL0,"LOCUS       MOXL01000004          388246 bp    DNA     linear   BCT 10-NOV-2016
+DEFINITION  Klebsiella pneumoniae strain CMC_VB35168
+            NODE_4_length_388246_cov_40.6549_ID_7, whole genome shotgun
+            sequence.
+"
+,,,
+153,158,ACCESSION   MOXL01000005 MOXL0,"LOCUS       MOXL01000005          337756 bp    DNA     linear   BCT 10-NOV-2016
+DEFINITION  Klebsiella pneumoniae strain CMC_VB35168
+            NODE_5_length_337756_cov_52.7208_ID_9, whole genome shotgun
+            sequence.
+"
+,,,
+154,159,ACCESSION   MOXL01000006 MOXL0,"LOCUS       MOXL01000006          334094 bp    DNA     linear   BCT 10-NOV-2016
+DEFINITION  Klebsiella pneumoniae strain CMC_VB35168
+            NODE_6_length_334094_cov_38.4641_ID_11, whole genome shotgun
+            sequence.
+"
+,,,
+155,160,ACCESSION   MDZG01000053 MDZG0,"LOCUS       MDZG01000053          385589 bp    DNA     linear   BCT 07-NOV-2016
+DEFINITION  Klebsiella pneumoniae strain CMC_VB4175
+            NODE_1_length_385589_cov_15.9715_ID_1, whole genome shotgun
+            sequence.
+"
+,,,
+156,161,ACCESSION   MDZG01000064 MDZG0,"LOCUS       MDZG01000064          356620 bp    DNA     linear   BCT 07-NOV-2016
+DEFINITION  Klebsiella pneumoniae strain CMC_VB4175
+            NODE_2_length_356620_cov_24.4894_ID_3, whole genome shotgun
+            sequence.
+"
+,,,
+157,162,ACCESSION   MDZG01000075 MDZG0,"LOCUS       MDZG01000075          354943 bp    DNA     linear   BCT 07-NOV-2016
+DEFINITION  Klebsiella pneumoniae strain CMC_VB4175
+            NODE_3_length_354943_cov_21.1732_ID_5, whole genome shotgun
+            sequence.
+"
+,,,
+158,163,ACCESSION   MDZG01000086 MDZG0,"LOCUS       MDZG01000086          332354 bp    DNA     linear   BCT 07-NOV-2016
+DEFINITION  Klebsiella pneumoniae strain CMC_VB4175
+            NODE_4_length_332354_cov_13.2858_ID_7, whole genome shotgun
+            sequence.
+"
+,,,
+159,164,ACCESSION   MBQC01000055 MBQC0,"LOCUS       MBQC01000055          642453 bp    DNA     linear   BCT 17-OCT-2016
+DEFINITION  Klebsiella pneumoniae strain B3639
+            NODE_1_length_642453_cov_38.4057_ID_1, whole genome shotgun
+            sequence.
+"
+,,,
+160,165,ACCESSION   MBQC01000066 MBQC0,"LOCUS       MBQC01000066          385944 bp    DNA     linear   BCT 17-OCT-2016
+DEFINITION  Klebsiella pneumoniae strain B3639
+            NODE_2_length_385944_cov_31.9014_ID_3, whole genome shotgun
+            sequence.
+"
+,,,
+161,166,ACCESSION   MBQC01000077 MBQC0,"LOCUS       MBQC01000077          349609 bp    DNA     linear   BCT 17-OCT-2016
+DEFINITION  Klebsiella pneumoniae strain B3639
+            NODE_3_length_349609_cov_41.7833_ID_5, whole genome shotgun
+            sequence.
+"
+,,,
+162,167,ACCESSION   MBQC01000088 MBQC0,"LOCUS       MBQC01000088          327622 bp    DNA     linear   BCT 17-OCT-2016
+DEFINITION  Klebsiella pneumoniae strain B3639
+            NODE_4_length_327622_cov_47.3393_ID_7, whole genome shotgun
+            sequence.
+"
+,,,
+163,168,ACCESSION   MCFQ01000111 MCFQ0,"LOCUS       MCFQ01000111          561602 bp    DNA     linear   BCT 12-OCT-2016
+DEFINITION  Klebsiella pneumoniae strain B20143
+            NODE_1_length_561602_cov_24.3368_ID_1, whole genome shotgun
+            sequence.
+"
+,,,
+164,169,ACCESSION   MCFQ01000149 MCFQ0,"LOCUS       MCFQ01000149          320302 bp    DNA     linear   BCT 12-OCT-2016
+DEFINITION  Klebsiella pneumoniae strain B20143
+            NODE_2_length_320302_cov_17.3983_ID_3, whole genome shotgun
+            sequence.
+"
+,,,
+165,170,ACCESSION   MCFP01000111 MCFP0,"LOCUS       MCFP01000111          379942 bp    DNA     linear   BCT 12-OCT-2016
+DEFINITION  Klebsiella pneumoniae strain B20038
+            NODE_1_length_379942_cov_24.5411_ID_1, whole genome shotgun
+            sequence.
+"
+,,,
+166,171,ACCESSION   MCFO01000083 MCFO0,"LOCUS       MCFO01000083          337597 bp    DNA     linear   BCT 12-OCT-2016
+DEFINITION  Klebsiella pneumoniae strain B1647
+            NODE_1_length_337597_cov_19.5698_ID_1, whole genome shotgun
+            sequence.
+"
+,,,
+167,172,ACCESSION   MBFY01000099 MBFY0,"LOCUS       MBFY01000099          301124 bp    DNA     linear   BCT 11-OCT-2016
+DEFINITION  Klebsiella pneumoniae strain B3789
+            NODE_1_length_301124_cov_19.916_ID_1, whole genome shotgun
+            sequence.
+"
+,,,
+168,173,ACCESSION   LZPA01000599 LZPA0,"LOCUS       LZPA01000599          327728 bp    DNA     linear   BCT 08-SEP-2016
+DEFINITION  Klebsiella pneumoniae strain B9888
+            NODE_1_length_327728_cov_11.5621_ID_1, whole genome shotgun
+            sequence.
+"
+,,,
+169,174,ACCESSION   LZYA01000011 LZYA0,"LOCUS       LZYA01000011          450655 bp    DNA     linear   BCT 08-SEP-2016
+DEFINITION  Klebsiella pneumoniae strain BA253
+            NODE_1_length_450655_cov_45.3261_ID_1, whole genome shotgun
+            sequence.
+"
+,,,
+170,175,ACCESSION   LZYA01000022 LZYA0,"LOCUS       LZYA01000022          440707 bp    DNA     linear   BCT 08-SEP-2016
+DEFINITION  Klebsiella pneumoniae strain BA253
+            NODE_2_length_440707_cov_37.2757_ID_3, whole genome shotgun
+            sequence.
+"
+,,,
+171,176,ACCESSION   LZYA01000033 LZYA0,"LOCUS       LZYA01000033          321707 bp    DNA     linear   BCT 08-SEP-2016
+DEFINITION  Klebsiella pneumoniae strain BA253
+            NODE_3_length_321707_cov_38.448_ID_5, whole genome shotgun
+            sequence.
+"
+,,,
+172,177,ACCESSION   LYYE01000111 LYYE0,"LOCUS       LYYE01000111          556922 bp    DNA     linear   BCT 08-SEP-2016
+DEFINITION  Klebsiella pneumoniae strain B7868
+            NODE_1_length_556922_cov_11.2905_ID_1, whole genome shotgun
+            sequence.
+"
+,,,
+173,178,ACCESSION   LYYE01000222 LYYE0,"LOCUS       LYYE01000222          501137 bp    DNA     linear   BCT 08-SEP-2016
+DEFINITION  Klebsiella pneumoniae strain B7868
+            NODE_2_length_501137_cov_12.3456_ID_3, whole genome shotgun
+            sequence.
+"
+,,,
+174,179,ACCESSION   LZYN01000111 LZYN0,"LOCUS       LZYN01000111          515287 bp    DNA     linear   BCT 08-SEP-2016
+DEFINITION  Klebsiella pneumoniae strain BA41763
+            NODE_1_length_515287_cov_12.776_ID_1, whole genome shotgun
+            sequence.
+"
+,,,
+175,180,ACCESSION   LYYE01000333 LYYE0,"LOCUS       LYYE01000333          490003 bp    DNA     linear   BCT 08-SEP-2016
+DEFINITION  Klebsiella pneumoniae strain B7868
+            NODE_3_length_490003_cov_16.8692_ID_5, whole genome shotgun
+            sequence.
+"
+,,,
+176,181,ACCESSION   LZYN01000222 LZYN0,"LOCUS       LZYN01000222          399305 bp    DNA     linear   BCT 08-SEP-2016
+DEFINITION  Klebsiella pneumoniae strain BA41763
+            NODE_2_length_399305_cov_12.8243_ID_3, whole genome shotgun
+            sequence.
+"
+,,,
+177,182,ACCESSION   LYYE01000444 LYYE0,"LOCUS       LYYE01000444          366180 bp    DNA     linear   BCT 08-SEP-2016
+DEFINITION  Klebsiella pneumoniae strain B7868
+            NODE_4_length_366180_cov_12.2211_ID_7, whole genome shotgun
+            sequence.
+"
+,,,
+178,183,ACCESSION   LYYE01000521 LYYE0,"LOCUS       LYYE01000521          361825 bp    DNA     linear   BCT 08-SEP-2016
+DEFINITION  Klebsiella pneumoniae strain B7868
+            NODE_5_length_361825_cov_16.3631_ID_9, whole genome shotgun
+            sequence.
+"
+,,,
+179,184,ACCESSION   LYYE01000532 LYYE0,"LOCUS       LYYE01000532          327107 bp    DNA     linear   BCT 08-SEP-2016
+DEFINITION  Klebsiella pneumoniae strain B7868
+            NODE_6_length_327107_cov_15.3925_ID_11, whole genome shotgun
+            sequence.
+"

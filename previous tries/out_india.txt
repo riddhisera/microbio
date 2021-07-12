@@ -1,0 +1,95 @@
+Searchno   Accession ID                             Description                                                                                         
+19         ACCESSION   MZ320217
+VERSION             LOCUS       MZ320217                 721 bp    DNA     linear   BCT 07-JUN-2021
+DEFINITION  Klebsiella pneumoniae strain RK4 16S ribosomal RNA gene, partial
+            sequence.
+
+20         ACCESSION   MZ318713
+VERSION             LOCUS       MZ318713                1440 bp    DNA     linear   BCT 07-JUN-2021
+DEFINITION  Klebsiella pneumoniae strain RK1 16S ribosomal RNA gene, partial
+            sequence.
+
+48         ACCESSION   CP076016
+VERSION             LOCUS       CP076016                1240 bp    DNA     circular BCT 02-JUN-2021
+DEFINITION  Klebsiella pneumoniae subsp. pneumoniae strain WGR351 plasmid
+            p8WGR351, complete sequence.
+
+49         ACCESSION   CP076015
+VERSION             LOCUS       CP076015                2044 bp    DNA     circular BCT 02-JUN-2021
+DEFINITION  Klebsiella pneumoniae subsp. pneumoniae strain WGR351 plasmid
+            p7WGR351, complete sequence.
+
+50         ACCESSION   CP076014
+VERSION             LOCUS       CP076014                4167 bp    DNA     circular BCT 02-JUN-2021
+DEFINITION  Klebsiella pneumoniae subsp. pneumoniae strain WGR351 plasmid
+            p6WGR351, complete sequence.
+
+51         ACCESSION   CP076013
+VERSION             LOCUS       CP076013                4245 bp    DNA     circular BCT 02-JUN-2021
+DEFINITION  Klebsiella pneumoniae subsp. pneumoniae strain WGR351 plasmid
+            p5WGR351, complete sequence.
+
+52         ACCESSION   CP076012
+VERSION             LOCUS       CP076012               49065 bp    DNA     circular BCT 02-JUN-2021
+DEFINITION  Klebsiella pneumoniae subsp. pneumoniae strain WGR351 plasmid
+            p4WGR351, complete sequence.
+
+53         ACCESSION   CP076011
+VERSION             LOCUS       CP076011               54615 bp    DNA     circular BCT 02-JUN-2021
+DEFINITION  Klebsiella pneumoniae subsp. pneumoniae strain WGR351 plasmid
+            p3WGR351, complete sequence.
+
+54         ACCESSION   CP076010
+VERSION             LOCUS       CP076010               63589 bp    DNA     circular BCT 02-JUN-2021
+DEFINITION  Klebsiella pneumoniae subsp. pneumoniae strain WGR351 plasmid
+            p2WGR351, complete sequence.
+
+55         ACCESSION   CP076009
+VERSION             LOCUS       CP076009              166659 bp    DNA     circular BCT 02-JUN-2021
+DEFINITION  Klebsiella pneumoniae subsp. pneumoniae strain WGR351 plasmid
+            p1WGR351, complete sequence.
+
+56         ACCESSION   CP076008
+VERSION             LOCUS       CP076008             5418057 bp    DNA     circular BCT 02-JUN-2021
+DEFINITION  Klebsiella pneumoniae subsp. pneumoniae strain WGR351 chromosome,
+            complete genome.
+
+73         ACCESSION   CP075894
+VERSION             LOCUS       CP075894                1782 bp    DNA     circular BCT 01-JUN-2021
+DEFINITION  Klebsiella pneumoniae strain GR390 plasmid p4GR390, complete
+            sequence.
+
+74         ACCESSION   CP075893
+VERSION             LOCUS       CP075893               87454 bp    DNA     circular BCT 01-JUN-2021
+DEFINITION  Klebsiella pneumoniae strain GR390 plasmid p3GR390, complete
+            sequence.
+
+75         ACCESSION   CP075892
+VERSION             LOCUS       CP075892               97674 bp    DNA     circular BCT 01-JUN-2021
+DEFINITION  Klebsiella pneumoniae strain GR390 plasmid p2GR390, complete
+            sequence.
+
+76         ACCESSION   CP075891
+VERSION             LOCUS       CP075891              187495 bp    DNA     circular BCT 01-JUN-2021
+DEFINITION  Klebsiella pneumoniae strain GR390 plasmid p1GR390, complete
+            sequence.
+
+77         ACCESSION   CP075890
+VERSION             LOCUS       CP075890             5434145 bp    DNA     circular BCT 01-JUN-2021
+DEFINITION  Klebsiella pneumoniae strain GR390 chromosome, complete genome.
+
+104        ACCESSION   MZ224451
+VERSION             LOCUS       MZ224451                1497 bp    DNA     linear   BCT 23-MAY-2021
+DEFINITION  Klebsiella pneumoniae strain CMPD2 16S ribosomal RNA gene, partial
+            sequence.
+
+105        ACCESSION   MZ222159
+VERSION             LOCUS       MZ222159                1414 bp    DNA     linear   BCT 23-MAY-2021
+DEFINITION  Klebsiella pneumoniae strain B23 16S ribosomal RNA gene, partial
+            sequence.
+
+135        ACCESSION   MT322443
+VERSION             LOCUS       MT322443                 440 bp    DNA     linear   BCT 31-MAY-2021
+DEFINITION  Klebsiella pneumoniae strain ND20 16S ribosomal RNA gene, partial
+            sequence.
+

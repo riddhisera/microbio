@@ -1,0 +1,86 @@
+LOCUS       NZ_JAGKSI010000000   5354823 bp    DNA     linear   BCT 05-JUN-2021
+DEFINITION  Escherichia coli strain UTI_PT7, whole genome shotgun sequencing
+            project.
+ACCESSION   NZ_JAGKSI000000000
+VERSION     NZ_JAGKSI000000000.1
+DBLINK      BioProject: PRJNA224116
+            BioSample: SAMN18515059
+            Assembly: GCF_017898085.1
+KEYWORDS    WGS; RefSeq.
+SOURCE      Escherichia coli
+  ORGANISM  Escherichia coli
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Escherichia.
+REFERENCE   1  (bases 1 to 5354823)
+  AUTHORS   Perera,V., Enne,V. and Corea,E.
+  TITLE     Anti-microbial resistance genes, virulence genes and associated
+            mobile genetic elements of multidrug resistant uropathogenic
+            Klebsiella pneumoniae (ST147, ST16 and ST15), Escherichia coli
+            ST131 and E. hormaechei subsp. steigerwaltii ST93 from Sri Lanka
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 5354823)
+  AUTHORS   Perera,V., Enne,V. and Corea,E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-MAR-2021) Microbiology, Faculty of Medicine,
+            University of Colombo, 25 Kynsey Rd, Colombo, Western 10280, Sri
+            Lanka
+COMMENT     REFSEQ INFORMATION: The reference sequence is identical to
+            JAGKSI000000000.1.
+            The Escherichia coli whole genome shotgun (WGS) project has the
+            project accession NZ_JAGKSI000000000.  This version of the project
+            (01) has the accession number NZ_JAGKSI010000000, and consists of
+            sequences JAGKSI010000001-JAGKSI010000170.
+            
+            ##Genome-Assembly-Data-START##
+            Assembly Method        :: SPAdes v. 3.7
+            Genome Representation  :: Full
+            Expected Final Version :: Yes
+            Genome Coverage        :: 30x
+            Sequencing Technology  :: Illumina
+            ##Genome-Assembly-Data-END##
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider               :: NCBI RefSeq
+            Annotation Date                   :: 06/05/2021 14:59:13
+            Annotation Pipeline               :: NCBI Prokaryotic Genome
+                                                 Annotation Pipeline (PGAP)
+            Annotation Method                 :: Best-placed reference protein
+                                                 set; GeneMarkS-2+
+            Annotation Software revision      :: 5.2
+            Features Annotated                :: Gene; CDS; rRNA; tRNA; ncRNA;
+                                                 repeat_region
+            Genes (total)                     :: 5,394
+            CDSs (total)                      :: 5,287
+            Genes (coding)                    :: 4,965
+            CDSs (with protein)               :: 4,965
+            Genes (RNA)                       :: 107
+            rRNAs                             :: 8, 9, 1 (5S, 16S, 23S)
+            complete rRNAs                    :: 8, 1, 1 (5S, 16S, 23S)
+            partial rRNAs                     :: 8 (16S)
+            tRNAs                             :: 84
+            ncRNAs                            :: 5
+            Pseudo Genes (total)              :: 322
+            CDSs (without protein)            :: 322
+            Pseudo Genes (ambiguous residues) :: 0 of 322
+            Pseudo Genes (frameshifted)       :: 67 of 322
+            Pseudo Genes (incomplete)         :: 264 of 322
+            Pseudo Genes (internal stop)      :: 37 of 322
+            Pseudo Genes (multiple problems)  :: 41 of 322
+            ##Genome-Annotation-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..5354823
+                     /organism="Escherichia coli"
+                     /mol_type="genomic DNA"
+                     /strain="UTI_PT7"
+                     /isolation_source="urine"
+                     /host="Homo sapiens"
+                     /db_xref="taxon:562"
+                     /country="Sri Lanka"
+                     /lat_lon="6.9271 N 79.8612 E"
+                     /collection_date="2015-10"
+                     /collected_by="University of Colombo"
+                     /genotype="ST131"
+WGS         JAGKSI010000001-JAGKSI010000170
+WGS_SCAFLD  NZ_JAGKSI010000001-NZ_JAGKSI010000170
+//
+

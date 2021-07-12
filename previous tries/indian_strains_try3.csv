@@ -1,0 +1,36 @@
+Searchno,Accession ID,Description
+9983,ACCESSION   SGIY01000001 SGIY0,"LOCUS       SGIY01000001          315984 bp    DNA     linear   BCT 17-FEB-2019
+DEFINITION  Klebsiella pneumoniae strain 35DN
+            NODE_1_length_315984_cov_27.9822_ID_1, whole genome shotgun
+            sequence.
+"
+9984,ACCESSION   SGIZ01000001 SGIZ0,"LOCUS       SGIZ01000001          496607 bp    DNA     linear   BCT 17-FEB-2019
+DEFINITION  Klebsiella pneumoniae strain 242CHI
+            NODE_1_length_496607_cov_30.8187_ID_1, whole genome shotgun
+            sequence.
+"
+9985,ACCESSION   SGIZ01000002 SGIZ0,"LOCUS       SGIZ01000002          458072 bp    DNA     linear   BCT 17-FEB-2019
+DEFINITION  Klebsiella pneumoniae strain 242CHI
+            NODE_2_length_458072_cov_30.9182_ID_3, whole genome shotgun
+            sequence.
+"
+9992,ACCESSION   SEHS01000001 SEHS0,"LOCUS       SEHS01000001          380259 bp    DNA     linear   BCT 06-FEB-2019
+DEFINITION  Klebsiella pneumoniae strain 76CHI
+            NODE_1_length_380259_cov_46.1198_ID_1, whole genome shotgun
+            sequence.
+"
+9993,ACCESSION   SEHS01000002 SEHS0,"LOCUS       SEHS01000002          301935 bp    DNA     linear   BCT 06-FEB-2019
+DEFINITION  Klebsiella pneumoniae strain 76CHI
+            NODE_2_length_301935_cov_29.5554_ID_3, whole genome shotgun
+            sequence.
+"
+9994,ACCESSION   SEHU01000001 SEHU0,"LOCUS       SEHU01000001          336197 bp    DNA     linear   BCT 06-FEB-2019
+DEFINITION  Klebsiella pneumoniae strain 86AS
+            NODE_1_length_336197_cov_27.8823_ID_1, whole genome shotgun
+            sequence.
+"
+9995,ACCESSION   SEHQ01000001 SEHQ0,"LOCUS       SEHQ01000001          362442 bp    DNA     linear   BCT 06-FEB-2019
+DEFINITION  Klebsiella pneumoniae strain 55DN
+            NODE_1_length_362442_cov_31.1283_ID_1, whole genome shotgun
+            sequence.
+"

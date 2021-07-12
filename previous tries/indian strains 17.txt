@@ -1,0 +1,56 @@
+1. RK416S
+	Klebsiella pneumoniae strain RK4 16S ribosomal RNA gene, partial sequence.
+
+2. RK116S
+	Klebsiella pneumoniae strain RK1 16S ribosomal RNA gene, partial sequence.
+
+3. WGR351
+	Klebsiella pneumoniae subsp. pneumoniae strain WGR351 plasmid p8WGR351, complete sequence.
+	Klebsiella pneumoniae subsp. pneumoniae strain WGR351 plasmid p7WGR351, complete sequence.
+	Klebsiella pneumoniae subsp. pneumoniae strain WGR351 plasmid p6WGR351, complete sequence.
+	Klebsiella pneumoniae subsp. pneumoniae strain WGR351 plasmid p5WGR351, complete sequence.
+	Klebsiella pneumoniae subsp. pneumoniae strain WGR351 plasmid p4WGR351, complete sequence.
+	Klebsiella pneumoniae subsp. pneumoniae strain WGR351 plasmid p3WGR351, complete sequence.
+	Klebsiella pneumoniae subsp. pneumoniae strain WGR351 plasmid p2WGR351, complete sequence.
+	Klebsiella pneumoniae subsp. pneumoniae strain WGR351 plasmid p1WGR351, complete sequence.
+	Klebsiella pneumoniae subsp. pneumoniae strain WGR351 chromosome, complete genome.
+
+4. GR390
+	Klebsiella pneumoniae strain GR390 plasmid p4GR390, complete sequence.
+	Klebsiella pneumoniae strain GR390 plasmid p3GR390, complete sequence.
+	Klebsiella pneumoniae strain GR390 plasmid p2GR390, complete sequence.
+	Klebsiella pneumoniae strain GR390 plasmid p1GR390, complete sequence.
+	Klebsiella pneumoniae strain GR390 chromosome, complete genome.
+
+
+5. CMPD2
+	Klebsiella pneumoniae strain CMPD2 16S ribosomal RNA gene, partial sequence.
+	Klebsiella pneumoniae strain B23 16S ribosomal RNA gene, partial sequence.
+
+6. B23
+	Klebsiella pneumoniae strain B23 16S ribosomal RNA gene, partial sequence.
+
+7. ND20
+	Klebsiella pneumoniae strain ND20 16S ribosomal RNA gene, partial sequence.
+8. BA27935
+	Klebsiella pneumoniae strain BA27935 plasmid pvirulence_VBA27935, complete sequence.
+9. BP3636
+	Klebsiella pneumoniae strain BP3636 plasmid pvirulence_VBP3636, complete sequence.
+10. BA10835
+	Klebsiella pneumoniae strain BA10835 plasmid pvirulence_VBA10835, complete sequence.
+11. BA2275
+	Klebsiella pneumoniae strain BA2275 plasmid p1, complete sequence.
+12. C105
+	Klebsiella pneumoniae C105 plasmid pC105-NDM1-IncHI3, complete sequence.
+13. 35DN
+	Klebsiella pneumoniae strain 35DN NODE_1_length_315984_cov_27.9822_ID_1, whole genome shotgun sequence.
+14. 242CHI
+	Klebsiella pneumoniae strain 242CHI NODE_1_length_496607_cov_30.8187_ID_1, whole genome shotgun sequence.
+	Klebsiella pneumoniae strain 242CHI NODE_2_length_458072_cov_30.9182_ID_3, whole genome shotgun sequence.
+15. 76CHI
+	Klebsiella pneumoniae strain 76CHI NODE_1_length_380259_cov_46.1198_ID_1, whole genome shotgun sequence.
+16. 86AS
+	Klebsiella pneumoniae strain 86AS NODE_1_length_336197_cov_27.8823_ID_1, whole genome shotgun sequence.
+17. 55DN
+	Klebsiella pneumoniae strain 55DN NODE_1_length_362442_cov_31.1283_ID_1, whole genome shotgun sequence.
+
