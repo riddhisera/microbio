@@ -1,4 +1,4 @@
-# NCBI Data Retrival
+### NCBI Data Retrival
 Contains python codes that use Entrez library to fetch NCBI data to your local computer.
 These codes specifically help in the retrival of the Indian strains of _Klebsiella pneumoniae_.
 
