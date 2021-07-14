@@ -7,15 +7,15 @@ Entrez.email = "sera.1@iitj.ac.in" # Always tell NCBI who you are
 handle = Entrez.egquery(term="Klebsiella pneumoniae")
 record = Entrez.read(handle)
 
-count = 570     # for complete result, change it to 570
-handle = Entrez.esearch(db="nucleotide", term="Klebsiella pneumoniae AND \"whole genome\" AND India AND (\"300000\"[SLEN] : \"800000\"[SLEN]))", retmax=count)
+count = 60     # for complete result, change it to 570
+handle = Entrez.esearch(db="nucleotide", term="Klebsiella pneumoniae AND \"complete genome\" AND India AND (\"3000000\"[SLEN] : \"8000000\"[SLEN]))", retmax=count)
 record = Entrez.read(handle)
 gi_list = record["IdList"]
 
 number = 0
 
 fields = ['Sno','Accession ID','Description'] 
-filename = "indianwholegenome_570.csv"   #change file name if needed
+filename = "indCompletegenome_60.csv"   #change file name if needed
 with open(filename, 'w') as csvfile: 
     csvwriter = csv.writer(csvfile, dialect='excel') 
     csvwriter.writerow(fields)
