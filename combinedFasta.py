@@ -9,13 +9,13 @@ no = 1
 current_strain = ""
 
 import csv
-with open('indianwholegenome_570.csv', 'r') as file:  #input file name - refer for format, check line 22
+with open('indianwholegenome_97.csv', 'r') as file:  #input file name - refer for format, check line 22
     reader = csv.reader(file)
     itercars = iter(reader)
     next(itercars)
     for row in itercars:
         if row != ['', '', '']:
-            new_strain = row[2].split(' ')[3]
+            new_strain = row[2].split(' ')[row[2].split(' ').index("strain")+ 1]
             search_handle = Entrez.esearch(db="nucleotide",term=row[1], usehistory="y", idtype="acc")   #change row[index]
             search_results = Entrez.read(search_handle)
             search_handle.close()

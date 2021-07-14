@@ -1,4 +1,4 @@
-##total strains
+#to get list of unique strains from the csv file
 
 from Bio import Entrez
 import csv
@@ -7,16 +7,19 @@ Entrez.email = "sera.1@iitj.ac.in"
 
 no = 1
 strains = []
-filename = "indianKlebStrains.txt"
+filename = "indianKlebStrains58.txt"
 
 import csv
-with open('indianwholegenome_570.csv', 'r') as file:  #input file name - refer for format, check line 22
+with open('indCompletegenome_60.csv', 'r') as file:  #input file name - refer for format, check line 22
     reader = csv.reader(file)
     itercars = iter(reader)
     next(itercars)
     for row in itercars:
-        if row != ['', '', '']:
-            new_strain = row[2].split(' ')[3]
+        if row != []:
+            new_strain = row[2].split(' ')[row[2].split(' ').index("strain")+ 1]
+            write_file = open("all.txt", "a")
+            write_file.write(new_strain)
+            write_file.write("\n")
             if new_strain in strains:
                 None
             else:         
