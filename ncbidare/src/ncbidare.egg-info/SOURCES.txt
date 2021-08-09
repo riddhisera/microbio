@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+ncbidare.egg-info/PKG-INFO
+ncbidare.egg-info/SOURCES.txt
+ncbidare.egg-info/dependency_links.txt
+ncbidare.egg-info/top_level.txt
