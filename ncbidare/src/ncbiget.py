@@ -34,19 +34,19 @@ def get_genbank(query="Klebsiella pneumoniae", count=1, filename="results.csv"):
 
 #to get list of unique strains from the csv file
 
-def get_strains(filename):
+def get_strains(filename="results.csv"):
 
     Entrez.email = "sera.1@iitj.ac.in" 
     strains = []
 
-    with open('indCompletegenome_60.csv', 'r') as file:  #input file name - refer for format, check line 22
+    with open(filename, 'r') as file:  #input file name - refer for format, check line 22
         reader = csv.reader(file)
         itercars = iter(reader)
         next(itercars)
         for row in itercars:
             if row != []:
                 new_strain = row[2].split(' ')[row[2].split(' ').index("strain")+ 1]
-                write_file = open("all.txt", "a")
+                write_file = open("results.txt", "a")
                 write_file.write(new_strain)
                 write_file.write("\n")
                 if new_strain in strains:
@@ -59,7 +59,7 @@ def get_strains(filename):
 
 #to get fasta file of each strain
 
-def get_fasta(filename):
+def get_fasta(filename="results.csv"):
 
     Entrez.email = "sera.1@iitj.ac.in" 
     no = 1
